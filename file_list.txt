@@ -1,0 +1,13 @@
+Directory: /home/soumyadeep/OS_Practical
+Total number of files: 10
+File Names:
+/home/soumyadeep/OS_Practical/find_palindrome_word.sh
+/home/soumyadeep/OS_Practical/Armstrong_Number.sh
+/home/soumyadeep/OS_Practical/find_word_count.sh
+/home/soumyadeep/OS_Practical/word.txt
+/home/soumyadeep/OS_Practical/series.sh
+/home/soumyadeep/OS_Practical/fibonacci_output.txt
+/home/soumyadeep/OS_Practical/FibonacciSeries.sh
+/home/soumyadeep/OS_Practical/series2.sh
+/home/soumyadeep/OS_Practical/Palindrome.sh
+/home/soumyadeep/OS_Practical/count_file.sh

@@ -1,0 +1,6 @@
+Name | Roll No | Marks | Grade
+Alice | 101 | 85 | E (Excellent)
+Bob | 102 | 78 | A (Very Good)
+Charlie | 103 | 92 | O (Outstanding)
+David | 104 | 55 | C (Average)
+Eva | 105 | 39 | F (Fail)

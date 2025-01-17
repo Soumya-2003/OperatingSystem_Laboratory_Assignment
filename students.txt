@@ -1,0 +1,6 @@
+Name | Roll No | Marks
+Alice | 101 | 85
+Bob | 102 | 78
+Charlie | 103 | 92
+David | 104 | 55
+Eva | 105 | 39
